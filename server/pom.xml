@@ -4,9 +4,9 @@
 		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.code-disaster.steamworks4j</groupId>
+	<groupId>com.faceit.steamworks4j</groupId>
 	<artifactId>steamworks4j-server</artifactId>
-	<version>1.8.1-SNAPSHOT</version>
+	<version>1.8.0</version>
 
 	<packaging>jar</packaging>
 
@@ -128,7 +128,7 @@
 		<dependency>
 			<groupId>com.code-disaster.steamworks4j</groupId>
 			<artifactId>steamworks4j</artifactId>
-			<version>1.8.1-SNAPSHOT</version>
+			<version>1.8.0</version>
 		</dependency>
 	</dependencies>
 
